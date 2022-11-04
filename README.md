@@ -37,7 +37,9 @@ covid-19-analysis
 
 - *RAW_us_confirmed_cases.csv* : Daily confirmed cases by county.
 - *mask-use-by-county.csv* : Survey for mask adherence by county.
-- *U.S._State_and_Territorial_Public_Mask_Mandates_From_April_10__2020_through_August_15__2021_by_County_by_Day.csv* : Mask policy in affect by county.
+- *U.S._State_and_Territorial_Public_Mask_Mandates_From_April_10__2020_through_August_15__2021_by_County_by_Day.csv* : Mask policy in affect by county. (This file was too big to save in the repository)
+- *finalDataset.csv* : This is the final dataset I used for the analysis, it has the confirmed cases and mask policy data for Hennepin County, Minnesota.
+
 
 **output** :
 
